@@ -30,7 +30,7 @@ Options :
 % ./weight-va -i input.fasta
 ```
 
-Type `-h` to see a help.
+Type `-h` to see help.
 
 ## Result
 Number `\t` Weighting score `\t` Name of the sequence (the title line)
