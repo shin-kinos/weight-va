@@ -33,7 +33,7 @@ Type `-h` to see help.
 ```
 
 ## Result
-Number `\t` Weighting score `\t` Name of the sequence (the title line)
+Number `\t` Weighting score `\t` Name of the sequence (title line)
 
 [e.g.]
 
